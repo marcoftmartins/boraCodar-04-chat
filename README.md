@@ -22,13 +22,13 @@
   📃 Project preview
 </h2>
 
-![image](https://user-images.githubusercontent.com/47821731/221192580-9b613cf7-5334-4b02-a435-5ecc9feeb7f2.png)
+![image](https://github.com/marcoftmartins/boraCodar-04-chat/assets/47821731/96095084-3950-4346-b872-5e1932974ec2)
 
 ---
 
 ## 🚀 Deploy
 
-You can visit the project deployment [here]().
+You can visit the project deployment [here](https://marcoftmartins.github.io/boraCodar-04-chat/).
 
 ## 🚧 Project features
 
